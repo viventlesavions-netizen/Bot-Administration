@@ -4,6 +4,9 @@
 
 **Gemini Telegram Bot** est un assistant intelligent ultra-avancé qui combine les capacités de l'IA Google Gemini avec un contrôle complet du système Linux. Ce bot permet d'exécuter des commandes système, gérer des fichiers, et bénéficier d'une assistance IA conversationnelle directement depuis Telegram.
 
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/56f7a632-37c6-446c-bb42-613708d31fb8" />
+
+
 ### ✨ Fonctionnalités Principales
 
 - **💬 Chat IA Intelligent** : Conversations naturelles avec Google Gemini 2.5 Flash
