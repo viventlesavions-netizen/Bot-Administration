@@ -203,28 +203,13 @@ Envoyez un message simple à votre bot Telegram :
 
 ## 📖 Utilisation
 
-### 💬 Commandes Système
-Le bot peut exécuter n'importe quelle commande Linux :
-
-```
-ls -la /home
-ps aux | grep python
-df -h
-```
-
-### 🤖 Chat IA
 Conversations naturelles avec l'IA :
 ```
 Bonjour, peux-tu m'aider à comprendre Linux ?
 Explique-moi comment fonctionne systemd
-```
-
-### 📁 Gestion de Fichiers
-```
-read /etc/hostname
-write /tmp/test.txt "Hello World"
-append /tmp/test.txt " - ajouté"
-delete /tmp/test.txt
+Y a-t-il des mises à jour à faire sur le serveur ?
+Tous les sites sont-ils bien en ligne ?
+Peux-tu me créer un site Web dans /var/www/test en faisant l'enregistrement dans le fichier de conf d'Apache avec le nom DNS suivant : test.exemple.com
 ```
 
 ### 🎯 Fonctionnalités Avancées
